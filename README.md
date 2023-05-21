@@ -1,7 +1,6 @@
 # Untitled Game Demo
-#### Video Demo:  <URL HERE>
-#### Description:
-This is my submission for the final project in CS50. It is a simple proof of concept for a side scrolling video game made with lua, love2d, and Tiled. I have always loved video games and figured it would be a good idea to learn some of the mechanincs and workings of video games for my own knowledge and possibly as side projects in the future. Whether or not I will continue to work on this in the future remains to be seen but the more experience I have with coding in the future will increase the likelyhood of that happening. Below are brief descriptions of the files in my project.
+#### Video Demo:  <URL https://www.youtube.com/watch?v=OknZ8VuCK5o&ab_channel=JuanSandoval>
+#### Description:This is my submission for the final project in CS50. It is a simple proof of concept for a side scrolling video game made with lua, love2d, and Tiled. I have always loved video games and figured it would be a good idea to learn some of the mechanincs and workings of video games for my own knowledge and possibly as side projects in the future. Whether or not I will continue to work on this in the future remains to be seen but the more experience I have with coding in the future will increase the likelyhood of that happening. Below are brief descriptions of the files in my project.
 <br><br>
 Camera-Simply put, this file allows the camera to follow our player character and employ the side scrolling aspect of the game.
 <br><br>
